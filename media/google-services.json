@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "987830736505",
+    "firebase_url": "https://queen-pearl-default-rtdb.firebaseio.com",
+    "project_id": "queen-pearl",
+    "storage_bucket": "queen-pearl.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987830736505:android:14f983c0431c5d4122e6a8",
+        "android_client_info": {
+          "package_name": "vn.queenpearlezs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRfhKmhn9BqrdRl4tD1SkVE4-n4dlTPkk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
